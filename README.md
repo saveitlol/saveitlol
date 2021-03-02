@@ -1,15 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h2>Hey there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, I'm Ahmad Zaky</h2>
 
-**saveitlol/saveitlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+<code>I'm a software engineering. 😎</code>
+<code>I love programming. ❤</code>
+<code>Anime lover. 😉</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<code>I spend my free time on <a href="https://t.me/saveitlol">Telegram</a>. 😇</code>
 
+<img src="https://github.com/saveitlol/saveitlol/blob/master/gifs/coding.gif" alt="coding ?">
+
+<b>Skills :</b> <code>Java</code> | <code>PHP</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code>
+
+
+<br><img src="https://gpvc.arturio.dev/saveitlol" alt="Profile views">
+
+</div>
