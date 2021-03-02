@@ -9,7 +9,7 @@
 
 <code>I spend my free time on <a href="https://t.me/saveitlol">Telegram</a>. 😇</code>
 
-<img src="https://github.com/saveitlol/saveitlol/blob/master/gifs/coding.gif" alt="coding ?">
+<img src="gifs/coding.gif" alt="coding ?">
 
 <b>Skills :</b> <code>Java</code> | <code>PHP</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code>
 
