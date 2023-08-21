@@ -5,7 +5,6 @@
 
 <code>I'm a software engineering. 😎</code>
 <code>I love programming. ❤</code>
-<code>Anime lover. 😉</code>
 
 <code>I spend my free time on <a href="https://t.me/saveitlol">Telegram</a>. 😇</code>
 
